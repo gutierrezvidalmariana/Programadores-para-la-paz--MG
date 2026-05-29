@@ -1,0 +1,34 @@
+/
+Ruta principal.
+El servidor responde algo general, por ejemplo: Página principal
+
+/saludo
+Ruta fija llamada “saludo”.
+Responde algo como: Hola mundo
+
+/mensaje/juan
+Ruta dinámica con un parámetro (:nombre).
+Aquí juan se guarda en req.params.nombre.
+
+La respuesta sería algo como:Hola juan
+
+app.get('/', (req, res) => {
+  res.send('Página principal');
+});
+
+app.get('/saludo', (req, res) => {
+  res.send('Hola mundo');
+});
+
+app.get('/mensaje/:nombre', (req, res) => {
+  res.send(`Hola ${req.params.nombre}`);
+
+/mensaje/:nombre
+El :nombre significa “cualquier valor”.
+Por ejemplo:
+
+/mensaje/ana
+/mensaje/pedro
+/mensaje/carlos
+
+Cada uno cambiaría el valor recibido por el servidor.
