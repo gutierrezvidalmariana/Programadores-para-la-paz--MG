@@ -1,0 +1,5 @@
+-Implementar verificación en dos pasos para el acceso de usuarios.
+-Realizar copias de seguridad periódicas de la información del sistema.
+-Monitorear y analizar intentos de acceso sospechosos.
+-Mantener actualizado el software y los servidores para evitar vulnerabilidades.
+-Asignar roles y permisos según las funciones de cada usuario.

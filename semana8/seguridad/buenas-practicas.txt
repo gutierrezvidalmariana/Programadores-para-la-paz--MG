@@ -1,0 +1,3 @@
+-Usar autenticación en dos pasos (2FA) para proteger las cuentas.
+-Evitar conectarse a redes WiFi públicas sin protección o sin VPN.
+-No abrir enlaces o archivos sospechosos recibidos por correo o mensajes.
