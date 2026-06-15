@@ -1,0 +1,7 @@
+{
+  "tipo": "Vías y movilidad",
+  "descripcion": "Hay un hueco grande en la calle principal que dificulta el paso de vehículos y peatones.",
+  "ubicacion": "Calle 45 con carrera 10",
+  "prioridad": "Alta"
+}
+Este JSON incluye información básica del problema, el lugar donde ocurre y el nivel de urgencia para facilitar su atención.

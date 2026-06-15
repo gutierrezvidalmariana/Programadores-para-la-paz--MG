@@ -1,0 +1,1 @@
+El servidor devuelve una respuesta en formato JSON para confirmar que recibió correctamente la información enviada. El campo "estado" indica que los datos fueron procesados exitosamente. Los campos "nombre" y "mensaje" muestran la información que el usuario envió en la solicitud. Esto permite verificar que el servidor recibió y respondió con los datos esperados.
