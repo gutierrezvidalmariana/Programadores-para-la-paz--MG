@@ -1,0 +1,17 @@
+Es una lista de reportes (por eso está entre corchetes [ ]). Dentro de esa lista hay un solo reporte.
+
+Ese reporte tiene tres partes:
+
+id: 1 → Es el identificador único del reporte, sirve para distinguirlo de otros.
+tipo: "Infraestructura" → Indica la categoría del problema reportado.
+descripcion: "Daño en alumbrado público" → Explica el problema específico que se está presentando.
+
+En resumen, este JSON muestra un reporte guardado en el sistema sobre un daño en el alumbrado público
+
+[
+  {
+    "id": 2,
+    "tipo": "Ambiente",
+    "descripcion": "Basura acumulada en el parque principal del barrio"
+  }
+]

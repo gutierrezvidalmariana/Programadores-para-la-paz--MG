@@ -1,0 +1,9 @@
+{
+  "tipo": "Seguridad",
+  "descripcion": "Presencia de personas sospechosas en el parque del barrio en horas de la noche"
+}
+
+{
+  "tipo": "Movilidad",
+  "descripcion": "Semáforo dañado en una intersección principal que genera congestión vehicular"
+}
